@@ -38,7 +38,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Example.cs" />
+      <Compile Include="Converting.cs"/>
+      <Compile Include="FirstClass.cs"/>
+      <Compile Include="HelloWorld.cs"/>
+      <Compile Include="MainClass.cs"/>
+      <Compile Include="MathFunctions.cs"/>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
