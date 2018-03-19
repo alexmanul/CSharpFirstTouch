@@ -1,0 +1,5 @@
+C:\Users\Manul\RiderProjects\CSharpFirstTouch\CSharpFirstTouch\bin\Debug\CSharpFirstTouch.exe
+C:\Users\Manul\RiderProjects\CSharpFirstTouch\CSharpFirstTouch\bin\Debug\CSharpFirstTouch.pdb
+C:\Users\Manul\RiderProjects\CSharpFirstTouch\CSharpFirstTouch\obj\Debug\CSharpFirstTouch.csprojResolveAssemblyReference.cache
+C:\Users\Manul\RiderProjects\CSharpFirstTouch\CSharpFirstTouch\obj\Debug\CSharpFirstTouch.exe
+C:\Users\Manul\RiderProjects\CSharpFirstTouch\CSharpFirstTouch\obj\Debug\CSharpFirstTouch.pdb
