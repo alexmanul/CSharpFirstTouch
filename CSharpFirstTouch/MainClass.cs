@@ -6,9 +6,9 @@ namespace CSharpFirstTouch
    {
         public static void Main(string[] args)
         {
-//            HelloWorld.Hello();
-//            FirstClass.FirstMethod();
-//            MathFunctions.Math();
+            HelloWorld.Hello();
+            FirstClass.FirstMethod();
+            MathFunctions.Math();
             Converting.ConvertingMethod();
         } 
      }

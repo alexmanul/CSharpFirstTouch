@@ -6,8 +6,8 @@ namespace CSharpFirstTouch
     {
         public static void ConvertingMethod()
         {
-            double a = Convert.ToDouble((Console.ReadLine()));
-            bool isTrue = true;
+            var a = Convert.ToDouble((Console.ReadLine()));
+            const bool isTrue = true;
 
             if (a > 10f && isTrue)
             {
